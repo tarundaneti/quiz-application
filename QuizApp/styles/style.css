@@ -1,0 +1,63 @@
+
+#home{
+    background-image: url('https://cdn.pixabay.com/photo/2013/02/20/10/32/wallpaper-83671_960_720.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:right;
+    height: 850px;
+    overflow: hidden;
+}
+
+#home::-webkit-scrollbar{
+    display: none;
+}
+#login::-webkit-scrollbar{
+    display: none;
+}
+.button{
+    background-color: lime;
+    border-radius: 10px;
+    height: 50px;
+    width: 300px;
+    margin-top: 150px;
+    font-size: 25px;
+    font-family:cursive;
+    color: white;
+    box-shadow: 30px 30px 30px black;
+}
+#login{
+    background-image: url('https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.front{
+    background-color: white;
+    border-radius: 20px;
+    width: 450px;
+    padding: 15px;
+    box-shadow: 30px 30px 30px rgb(15, 14, 14);
+}
+.heading-h1{
+    color: white;
+    font-family:cursive;
+    font-size: 40px;
+}
+.heading-h4{
+    color: white;
+    font-family:cursive;
+    font-size: 25px;
+}
+.inp{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+}
+.sub{
+    
+    border-radius: 15px;
+    padding: 7px 20px;
+    background-color: rgb(97, 19, 170);
+    color: white;
+    font-family:cursive;
+    font-size: 20px;
+}

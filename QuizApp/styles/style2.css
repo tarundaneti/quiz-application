@@ -1,0 +1,65 @@
+body{
+    background-image: url('https://t3.ftcdn.net/jpg/00/86/56/12/360_F_86561234_8HJdzg2iBlPap18K38mbyetKfdw1oNrm.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.main{
+    border: 1px solid black;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 30px 30px 30px black;
+    padding: 30px;
+    margin: 20px 100px;
+    float: left;
+    background-color: white;
+}
+.main1{
+    border: 1px solid black;
+    text-align: left;
+    padding: 30px;
+    float: left;
+    border-radius: 20px;
+    box-shadow: 30px 30px 30px black;
+    margin: 20px 30px;
+    background-color: white;
+}
+.main2{
+    border: 1px solid black;
+    text-align: center;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 30px 30px 30px black;
+    float: left;
+    margin:20px 20px 100px  50px;
+    background-color: white;
+}
+.h2{
+    background-color: greenyellow;
+    border-radius: 10px;
+    color:white;
+    font-family: cursive;
+    box-shadow: 20px 20px 20px black;
+}
+i{
+    font-size: 30px;
+    padding-right: 50px;
+}
+.head{
+    text-align: left;
+    font-family: cursive;
+    text-shadow: 3px 3px 3px rgb(84, 84, 242);
+}
+.foot{
+    height: 40px;
+    border: 3px solid black;
+    position: fixed;
+    bottom: 0;
+    padding-bottom:25px ;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(237, 233, 234);
+}
+#category::-webkit-scrollbar{
+    display: none;
+}
+

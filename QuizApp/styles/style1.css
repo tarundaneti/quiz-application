@@ -1,0 +1,128 @@
+
+h4.h-h4{
+    color: white;
+    font-family: cursive;
+}
+h1.h-h1,h2.h-h1{
+    color: white;
+    font-family: cursive;
+}
+
+.strike{
+    color: white;
+    font-family: cursive;
+    padding-left: 20px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 20px white;
+    background-color:rgb(55, 20, 124);
+    text-align: left;
+}
+
+.sub{
+    height: 35px;
+    width: 200px;
+    border-radius: 15px;
+    background-color: greenyellow;
+    color: white;
+    font-family:cursive;
+    font-size: 20px;
+}
+.week{
+    border: 1px solid black;
+    padding:10px ;
+    background-color:rgb(46, 44, 44);
+    border-radius: 20px;
+    background-color:  rgb(97, 19, 170);
+    box-shadow: 20px 20px 20px black;
+}
+.cat{
+    border: 1px solid black;
+    padding:10px ;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 10px white;
+    background-color:  rgb(66, 66, 159);
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.cat:hover{
+    background-color:rgb(122, 228, 16);
+}
+.foot{
+    height: 40px;
+    border: 3px solid black;
+    position: fixed;
+    bottom: 0;
+    padding-top: 10px;
+    padding-bottom:5px ;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(237, 233, 234);
+}
+.que{
+    background-color:blue;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+    border-radius:10px ;
+    font-size: 40px;
+}
+.opts {
+    background-color:rgb(228, 240, 245);
+    padding-left: 30px;
+    font-size: 30px;
+    border-radius: 15px;
+    margin: 10px;
+}
+.answer{
+    padding: 10px;
+}
+.but{
+    background-color: green;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+    margin-bottom: 50px;
+}
+.but1{
+    background-color: greenyellow;
+    border-radius: 10px;
+    font-family: cursive;
+}
+.inp{
+    height: 30px;
+    width: 300px;
+    border-radius: 10px;
+}
+#i:hover{
+    color: gold;
+}
+#tx{
+    border-radius: 15px;
+    
+}
+#confirm{
+    width: 1000px;
+}
+#count{
+    background-color: rgb(179, 7, 7);
+    font-size: 40px;
+    color: white;
+    text-align: right;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px;
+    margin-left: 10px;
+}
+#category::-webkit-scrollbar{
+    display: none;
+}
+#category{
+    background-color: white;
+}
+body{
+    padding: 10px;
+}
